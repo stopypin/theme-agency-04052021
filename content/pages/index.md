@@ -11,6 +11,21 @@ sections:
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: hero_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
@@ -85,20 +100,5 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: hero_section
 layout: advanced
 ---
